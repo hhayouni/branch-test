@@ -57,17 +57,3 @@ ResNet introduces a new learning method:
   1. **Mitigates Gradient Vanishing Problems**: Helps propagate signals effectively during backpropagation.
   2. **Provides Additional Optimization Paths**: Facilitates convergence even in very deep networks.  
 - Skip connections are based on **Identity Mapping** and add **no additional parameters**, ensuring computational efficiency.
-
----
-
-##  Key Features of ResNet
-### Advantages
-- Enables learning in very deep networks.
-- Mitigates gradient vanishing problems.
-- Demonstrates exceptional performance across various applications (e.g., classification, detection, segmentation).
-  
-### Disadvantages
-- Skip connections consume additional memory.
-- Deeper networks increase computational cost.
-
----
