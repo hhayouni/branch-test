@@ -7,8 +7,7 @@ ResNet's core idea is to introduce a **residual structure** to solve the problem
 ---
 
 ## ResNet Architecture (Image)
-![ResNet Architecture](#)  
-(*Replace `#` with your image link if needed*)
+
 
 ---
 
