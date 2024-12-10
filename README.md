@@ -9,7 +9,7 @@ ResNet's core idea is to introduce a **residual structure** to solve the problem
 ## ResNet Architecture (Image)
 
 ### 1. VGG-19, 34-layer Plain, and 34-layer Residual
-![VGG-19, Plain, Residual Architecture](.\Users\김하영\OneDrive\문서\카카오톡 받은 파일\KakaoTalk_20241210_143346401.png)
+![VGG-19, Plain, Residual Architecture](."C:\Users\김하영\OneDrive\문서\카카오톡 받은 파일\KakaoTalk_20241210_143346401.png")
 
 ### 2. Layer-wise ResNet Configuration
 ![Layer-wise ResNet Configuration](./path-to-your-image/image2.png)
